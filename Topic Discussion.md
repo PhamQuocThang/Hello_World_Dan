@@ -9,5 +9,5 @@ Advanced by Stephanie Kelton
 
 
 
-![Miami](Miani2020.jpg)
-![Harcourt Lecture](HarcoutLecture2020.jpg)
+![Miami](Miami2020.jpg)
+![Harcourt Lecture](HarcourtLecture2020.jpg)
