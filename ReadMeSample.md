@@ -30,7 +30,7 @@ About the completion date:
 
 
 A restart with the memory of our company:
-![MediaSkills Logo](~/Desktop/MediaSkillsLogo.jpg)
+![MediaSkills Logo](MediaSkillsLogo.jpg)
 
 
 
