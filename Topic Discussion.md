@@ -14,5 +14,5 @@ Professor Kelton is a Professor of Public Policy and Economics at Stony Brook Un
 
 
 
-![Miami](Miani2020.png)
-![Harcourt Lecture](HarcoutLecture2020.png)
+![Miami](Miani2020.jpg)
+![Harcourt Lecture](HarcoutLecture2020.jpg)
