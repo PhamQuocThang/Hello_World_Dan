@@ -8,4 +8,5 @@ Advanced by Stephanie Kelton
 ![Miami](Miami2020.jpg)
 
 2. [Harcourt Lecture](https://www.youtube.com/watch?v=WmCrxlfdxrE)
-![Harcourt Lecture](HarcourtLecture2020.jpg)
+
+   ![Harcourt Lecture](HarcourtLecture2020.jpg)
