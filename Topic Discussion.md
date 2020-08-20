@@ -6,6 +6,6 @@ Advanced by Stephanie Kelton
 
 1. [Mohamed A. El-Erian and Stephanie Kelton](https://www.youtube.com/watch?v=tQqArFNQzMs)
 ![Miami](Miami2020.jpg)
-2. [Harcourt Lecture](https://www.youtube.com/watch?v=WmCrxlfdxrE)
 
+2. [Harcourt Lecture](https://www.youtube.com/watch?v=WmCrxlfdxrE)
 ![Harcourt Lecture](HarcourtLecture2020.jpg)
