@@ -16,12 +16,15 @@ About time line:
 2. What is my original purpose at round my start of an adult life?
 3. How does stuffs all look like at this precise moment, August 20th 2020?
 4. Do I have a motivation to Restart?
+5. What is my target of life?
 
 About natural motivation:
 1. Remember the suggestion of Stephanie Keiton [The Deficit Myth](https://www.youtube.com/watch?v=RpyuqKLh6QU&t=498s&pbjreload=101)
 2. For now, we are on a special trip. Let's get the best of it, knowing that we can turn anything into an asset!
 
 About use of resources:
+1. to develop farther, better than now.
+2. to make the best things.
 
 About design a route map:
 
